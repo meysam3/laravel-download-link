@@ -1,17 +1,17 @@
 {
-    "name": "armancodes/laravel-download-link",
+    "name": "meysam3/laravel-download-link",
     "description": "A simple Laravel package for generating download links with options such as expire time, IP restrictions, etc.",
     "keywords": [
-        "armancodes",
+        "meysam3",
         "laravel-download-link"
     ],
-    "homepage": "https://github.com/armancodes/laravel-download-link",
+    "homepage": "https://github.com/meysam3/laravel-download-link",
     "license": "MIT",
     "authors": [
         {
             "name": "Arman Ahmadi",
-            "email": "me@armancodes.com",
-            "homepage": "https://github.com/armancodes",
+            "email": "me@meysam3.com",
+            "homepage": "https://github.com/meysam3",
             "role": "Developer"
         }
     ],
